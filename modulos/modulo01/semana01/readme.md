@@ -1,16 +1,15 @@
+## Learning Objectives
 
-## Week 1
-- Introduction to data science concepts
-  - Overview of the Google Advanced Data Analytics Certificate
-  - Exploring the history of data science
-  - Applications of data science in problem-solving today
-- Content:
-  - 7 videos
-  - 10 readings
-  - 1 practice quiz
-- Expand Week 1 Material <!-- Replace # with the actual link when available -->
+- Understand program plans and expectations
+- Explore defining details of a data professional career
+- Describe the key concepts to be shared in the program, including learning outcomes
 
-**Graded Assignment:** Week 1 Challenge
+<br>
+
+1. Get started with the certificate program
+2. Careers in data science
+3. Program plan and expectations
+4. Review: Introduction to data science concepts
 
 
 
