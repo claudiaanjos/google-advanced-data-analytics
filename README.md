@@ -16,33 +16,33 @@ O programa é composto por sete cursos que ampliam as habilidades em análise de
 
 ### 1. Foundations of Data Science
 
-Fundamentos da Ciência de Dados - Introdução abrangente ao campo da ciência de dados, explorando o que é análise de dados, as funções dos profissionais de dados e as habilidades essenciais necessárias. Projetado para iniciantes, proporciona familiarização com os conceitos básicos da ciência de dados.
+Fundamentos da Ciência de Dados - Introdução ao campo da ciência de dados, explorando o que é análise/ciência de dados, as funções dos profissionais de dados e as habilidades essenciais necessárias. Proporciona familiarização com os conceitos básicos da ciência de dados.
 
 ### 2. Get Started with Python
 
-Início com Python - voltado para quem não está familiarizado com Python, o segundo na sequência. Ensina conceitos fundamentais da linguagem, incluindo tipos de dados, loops for, funções, integrando o uso de Jupyter Notebooks. Indicado para quem precisa adquirir conhecimentos básicos em Python.
+Início com Python - Aborda conceitos fundamentais da linguagem, incluindo tipos de dados, loops for, funções, integrando o uso de Jupyter Notebooks.
 
 ### 3. Go Beyond the Numbers: Translate Data into Insights
 
-Além dos Números: Traduzir Dados em Insights - Primeiro curso avançado do programa, ensina a transformar dados brutos em insights acionáveis utilizando Python e Tableau. Aborda a visualização de dados, uma habilidade essencial em análise de dados, permitindo a criação de visualizações significativas para profissionais de negócios.
+Além dos Números: Traduzir Dados em Insights - Focado em mostrar como transformar dados brutos em insights acionáveis utilizando Python e Tableau. Aborda a visualização de dados, com a criação de visualizações significativas para profissionais de negócios.
 
 ### 4. The Power of Statistics
 
-O Poder da Estatística - Curso avançado focado em estatística, abrangendo fundamentos como testes de hipóteses, significância estatística e regressão. Adequado tanto para iniciantes quanto para profissionais experientes, cobre conceitos essenciais que sustentam análises estatísticas.
+O Poder da Estatística - Módulo destinado a estatística, abrangendo fundamentos como testes de hipóteses, significância estatística e regressão. Adequado tanto para iniciantes quanto para profissionais experientes, cobre conceitos essenciais que sustentam análises estatísticas.
 
 ### 5. Regression Analysis: Simplify Complex Data Relationships
 
-Análise de Regressão: Simplificar Relacionamentos Complexos de Dados - Quinto curso do certificado, destina-se a profissionais que desejam compreender as relações entre variáveis em conjuntos de dados, utilizando a análise de regressão. Explora métodos de modelagem de variáveis e como aplicar a análise de regressão para simplificar relações complexas de dados.
+Análise de Regressão: Simplificar Relacionamentos Complexos de Dados - Destina-se a profissionais que desejam compreender as relações entre variáveis em conjuntos de dados, utilizando a análise de regressão. Explora métodos de modelagem de variáveis e como aplicar a análise de regressão para simplificar relações complexas de dados.
 
 ### 6. The Nuts and Bolts of Machine Learning
 
-Os Princípios do Aprendizado de Máquina - Aborda os fundamentos do aprendizado de máquina, incluindo aprendizado supervisionado e não supervisionado, bem como aprendizado profundo. Reconhece a necessidade de profissionais de análise de dados terem conhecimentos em aprendizado de máquina para enfrentar demandas do mundo real.
+Os Princípios do Aprendizado de Máquina - Aborda os fundamentos do aprendizado de máquina, incluindo aprendizado supervisionado e não supervisionado, bem como aprendizado profundo. 
 
 ### 7. Google Advanced Data Analytics Capstone
 
-Projeto de Conclusão Avançada em Análise de Dados da Google - O último curso permite aplicar todos os conhecimentos adquiridos em um projeto do mundo real. Os alunos desenvolvem uma solução para auxiliar o setor de Recursos Humanos da Google na tomada de decisões baseada em dados, proporcionando uma oportunidade prática para demonstrar as habilidades adquiridas.
+Projeto de Conclusão Avançada em Análise de Dados da Google - Aplicação de todos os conhecimentos adquiridos em um projeto do mundo real. 
 
-Em resumo, cada curso no Certificado Avançado em Análise de Dados da Google contribui para a formação abrangente, abordando desde os fundamentos até tópicos avançados, com ênfase em habilidades práticas e relevantes para o campo da análise de dados.
+Em resumo, cada curso no programa contribui para uma formação abrangente, abordando desde os fundamentos até tópicos avançados, com ênfase em habilidades práticas e relevantes para o campo da análise de dados.
 
 
 &nbsp;
