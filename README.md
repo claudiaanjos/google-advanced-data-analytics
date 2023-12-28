@@ -1,5 +1,3 @@
-![]()
-
 <div align='center'>
 <img src="https://www.reliablesoft.net/wp-content/uploads/2022/02/google-advanced-data-analytics-certification-2048x1152.png" width="50%"/>
 </div>
@@ -12,7 +10,7 @@ Repositório destinado para o processo de obtenção do [Google Advanced Data An
 
 O programa é composto por sete cursos que ampliam as habilidades em análise de dados, abrangendo temas como ciência de dados, modelos de regressão, análise estatística, aprendizado de máquina, programação em Python, visualização de dados e o uso de ferramentas como Jupyter Notebook e Tableau. Os cursos, focados em Python, são interativos, desenvolvidos exclusivamente por especialistas da Google e com avaliações práticas simulando cenários reais de análise de dados avançada. Além disso, o projeto de conclusão da formação permite aplicar as habilidades adquiridas em um projeto do mundo real.
 
-## 📂 Módulos
+## 📂 Conteúdo
 
 ### 1. Foundations of Data Science
 
