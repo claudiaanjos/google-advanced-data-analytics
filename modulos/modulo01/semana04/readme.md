@@ -1,9 +1,16 @@
-# Status dos Módulos
+## Week 4
+- Data applications and workflow
+  - Introduction to the PACE (Plan, Analyze, Construct, Execute) project workflow
+  - Organizing a data project effectively
+  - Communication skills for effective collaboration with teammates and stakeholders
+- Content:
+  - 7 videos
+  - 9 readings
+  - 5 practice quizzes
+- Expand Week 4 Material
 
-- [x] Módulo 01: Foundations of Data Science
-- [ ] Módulo 02: Get Started with Python
-- [ ] Módulo 03: Go Beyond the Numbers: Translate Data into Insights
-- [ ] Módulo 04: The Power of Statistics
-- [ ] Módulo 05: Regression Analysis: Simplify Complex Data Relationships
-- [ ] Módulo 06: The Nuts and Bolts of Machine Learning
-- [ ] Módulo 07: Google Advanced Data Analytics Capstone
+**Graded Assignment:** Week 4 Challenge
+
+
+
+
