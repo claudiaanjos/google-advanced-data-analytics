@@ -1,9 +1,14 @@
-# Status dos Módulos
+## Week 2
+- The impact of data today
+  - Further exploration of the history of data science
+  - Understanding the contemporary data career landscape
+  - How data professionals manage and analyze data
+  - Utilizing data-driven insights for organizational benefits
+- Content:
+  - 8 videos
+  - 9 readings
+  - 4 practice quizzes
+- Expand Week 2 Material
 
-- [x] Módulo 01: Foundations of Data Science
-- [ ] Módulo 02: Get Started with Python
-- [ ] Módulo 03: Go Beyond the Numbers: Translate Data into Insights
-- [ ] Módulo 04: The Power of Statistics
-- [ ] Módulo 05: Regression Analysis: Simplify Complex Data Relationships
-- [ ] Módulo 06: The Nuts and Bolts of Machine Learning
-- [ ] Módulo 07: Google Advanced Data Analytics Capstone
+**Graded Assignment:** Week 2 Challenge
+
