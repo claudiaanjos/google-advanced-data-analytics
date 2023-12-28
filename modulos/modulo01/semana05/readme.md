@@ -1,9 +1,12 @@
-# Status dos Módulos
+## Week 5
+- Course 1 end-of-course project
+  - Completion of an end-of-course project
+  - Application of new data skills and knowledge from Week 1 to a workplace scenario
+  - Practice in solving a business problem
+- Content:
+  - 4 videos
+  - 10 readings
+  - 3 practice quizzes
+- Expand Week 5 Material
 
-- [x] Módulo 01: Foundations of Data Science
-- [ ] Módulo 02: Get Started with Python
-- [ ] Módulo 03: Go Beyond the Numbers: Translate Data into Insights
-- [ ] Módulo 04: The Power of Statistics
-- [ ] Módulo 05: Regression Analysis: Simplify Complex Data Relationships
-- [ ] Módulo 06: The Nuts and Bolts of Machine Learning
-- [ ] Módulo 07: Google Advanced Data Analytics Capstone
+**Graded Assignment:** Assess your Week 1 end-of-course project
