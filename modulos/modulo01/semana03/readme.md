@@ -1,9 +1,12 @@
-# Status dos Módulos
+## Week 3
+- Your career as a data professional
+  - Identifying essential skills for data professionals
+  - Collaboration strategies among data professionals and teammates
+- Content:
+  - 9 videos
+  - 6 readings
+  - 2 practice quizzes
+- Expand Week 3 Material
 
-- [x] Módulo 01: Foundations of Data Science
-- [ ] Módulo 02: Get Started with Python
-- [ ] Módulo 03: Go Beyond the Numbers: Translate Data into Insights
-- [ ] Módulo 04: The Power of Statistics
-- [ ] Módulo 05: Regression Analysis: Simplify Complex Data Relationships
-- [ ] Módulo 06: The Nuts and Bolts of Machine Learning
-- [ ] Módulo 07: Google Advanced Data Analytics Capstone
+**Graded Assignment:** Week 3 Challenge
+
