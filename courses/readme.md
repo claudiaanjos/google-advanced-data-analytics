@@ -1,4 +1,4 @@
-# Course Status 
+# Courses
 
 - [x] Course 01: Foundations of Data Science
 - [x] Course 02: Get Started with Python
