@@ -1,5 +1,5 @@
 <div align='center'>
-<img src="https://www.reliablesoft.net/wp-content/uploads/2022/02/google-advanced-data-analytics-certification-2048x1152.png" width="60%"/>
+<img src="https://www.reliablesoft.net/wp-content/uploads/2022/02/google-advanced-data-analytics-certification-2048x1152.png" width="70%"/>
 </div>
 
 &nbsp;
