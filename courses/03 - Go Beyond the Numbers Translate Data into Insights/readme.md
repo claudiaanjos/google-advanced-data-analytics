@@ -17,3 +17,4 @@ Learners who complete the seven courses in this program will have the skills nee
 - Identify techniques for creating accessible data visualizations with Tableau
 - Determine decisions about missing data and outliers
 - Structure and organize data by manipulating date strings
+  
