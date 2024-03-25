@@ -4,7 +4,10 @@
 
 &nbsp;
 
+> [!NOTE]
 Repositório destinado para o processo de obtenção do [Google Advanced Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-advanced-data-analytics). A formação, disponibilizada em abril de 2023, foi projetada para impulsionar a carreira de Analistas de Dados com foco em Python. 
+
+&nbsp;
 
 ## 📚 Descrição
 
