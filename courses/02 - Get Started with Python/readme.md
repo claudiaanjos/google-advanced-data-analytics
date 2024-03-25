@@ -17,3 +17,4 @@ Learners who complete the seven courses in this program will have the skills nee
 - Identify data types such as integers, floats, strings, and booleans
 - Manipulate data structures such as , lists, tuples, dictionaries, and sets
 - Import and use Python libraries such as NumPy and pandas
+  
