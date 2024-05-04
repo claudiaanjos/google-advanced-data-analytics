@@ -42,7 +42,7 @@ Os Princípios do Aprendizado de Máquina - Aborda os fundamentos do aprendizado
 
 Projeto de Conclusão Avançada em Análise de Dados da Google - Aplicação de todos os conhecimentos adquiridos em um projeto do mundo real. 
 
-Cada curso no programa contribui para uma formação abrangente, abordando desde os fundamentos até tópicos avançados, com ênfase em habilidades práticas e relevantes para o campo da análise de dados.
+Em resumo, cada curso no programa contribui para uma formação abrangente, abordando desde os fundamentos até tópicos avançados, com ênfase em habilidades práticas e relevantes para o campo da análise de dados.
 
 
 &nbsp;
